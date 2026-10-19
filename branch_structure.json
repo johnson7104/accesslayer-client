@@ -1,0 +1,18 @@
+{
+  "default_branch": "dev",
+  "branches": [
+    "dev",
+    "feat/issue-1166-build-key-merge-proposal-ui-for-dual-creator",
+    "origin"
+  ],
+  "parent": {
+    "dev": null,
+    "feat/issue-1166-build-key-merge-proposal-ui-for-dual-creator": "dev",
+    "origin": "dev"
+  },
+  "order": [
+    "dev",
+    "feat/issue-1166-build-key-merge-proposal-ui-for-dual-creator",
+    "origin"
+  ]
+}
